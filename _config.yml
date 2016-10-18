@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: CodeJournalist
+title: Sumo Logic Developers
 email: mfloyd5218@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -15,3 +15,8 @@ url: "https://codejournalist.github.io/" # the base hostname & protocol for your
 
 # Build settings
 markdown: kramdown
+
+# Collections
+collections:
+   opensource_projects:
+   output: true

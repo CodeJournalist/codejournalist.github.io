@@ -1,0 +1,20 @@
+ - title: "FluentD Plugin for Sumo Logic"
+   repo_description: "Open-source data collector that decouples data sources from backend systems."
+   url: "https://github.com/memorycraft/fluent-plugin-sumologic"
+
+ - title: "SumoKube"
+   repo_description: "Sumo Logic Collector Chef Cookbook"
+   url: "https://github.com/SumoLogic/sumologic-collector-chef-cookbook"
+
+ - title: "Hubot for Sumo Logic"
+   repo_description: "Sumologic integration for Hubot"
+   url: "https://www.npmjs.com/package/hubot-sumologic"
+
+ - title: "Log Reflector” for AWS Lambda"
+   repo_description: "Collect CloudWatch log groups and forward then to one centralizing Lambda function"
+   url: "http://blog.davidablack.net/2016/08/17/a-log-reflector-for-aws-lambda/"
+
+ - title: "Sumo Logic PowerShell SDK"
+   repo_description: "PowerShell Module of functions running against the Sumo Logic API. Requires version 3.0 of PowerShell, as data is returned in JSON format and the module uses the ConvertFrom-Json function."
+   url: "https://github.com/SumoLogic/sumo-powershell-sdk"
+

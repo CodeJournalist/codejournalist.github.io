@@ -1,0 +1,3 @@
+[submodule "."] 
+  path = . 
+  url = git://https://github.com/CodeJournalist/codejournalist.github.io.git/

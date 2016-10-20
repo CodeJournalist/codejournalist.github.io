@@ -9,7 +9,7 @@
 title: Sumo Logic Developers
 email: mfloyd5218@gmail.com
 description: # Open Source Projects supporting the Sumo Logic service
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "https://codejournalist.github.io/" # the subpath of your site, e.g. /blog
 url: "https://codejournalist.github.io/" 
 
 repository: https://github.com/CodeJournalist/codejournalist.github.io

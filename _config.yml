@@ -8,7 +8,7 @@
 # Site settings
 title: Sumo Logic Developers
 email: mfloyd5218@gmail.com
-description: > Open Source Projects supporting the Sumo Logic service
+description: # Open Source Projects supporting the Sumo Logic service
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://codejournalist.github.io/" 
 
@@ -22,3 +22,7 @@ markdown: kramdown
 collections:
    opensource_projects:
    output: true
+
+exclude:
+  - README.md
+  - .gitignore

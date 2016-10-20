@@ -7,10 +7,9 @@
 
 # Site settings
 title: Sumo Logic Developers
-email: mfloyd5218@gmail.com
+email: info@sumologic.com
 description: # Open Source Projects supporting the Sumo Logic service
-baseurl: "https://codejournalist.github.io/" # the subpath of your site, e.g. /blog
-url: "https://codejournalist.github.io" 
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 repository: https://github.com/CodeJournalist/codejournalist.github.io
 timezone: America/Los_Angeles

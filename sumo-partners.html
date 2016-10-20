@@ -33,7 +33,7 @@ layout: default
   		   <tbody>
   		     {% for partner in site.data.partners %}
   		     <tr>
-  			   <td><a href="{{ partner.url }}">{{ partner.title }}</a></td>
+  			   <td><a href="{{ partner.url }}" target="_blank" alt="{{ partner.title }}">{{ partner.title }}</a></td>
   			   <td>{{ partner.repo_description }}</td>
   		       {% endfor %}
   		     </tr>

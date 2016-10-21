@@ -17,6 +17,14 @@
    repo_description: "Sumologic integration for Hubot"
    url: "https://www.npmjs.com/package/hubot-sumologic"
 
+ - title: "Sumo Logic SDK in Ruby"
+   repo_description: "The Ruby SDK ported from the Sumo Logic Python SDK, providing a Ruby interface to the Sumo Logic REST API."
+   url: "https://github.com/grokify/sumologic-sdk-ruby"
+
+ - title: "SumoTools PowerShell Module"
+   repo_description: "PowerShell Module of functions running against the Sumo Logic API"
+   url: "https://github.com/ScriptAutomate/SumoTools"
+
  - title: "Useful Regular Expressions"
    repo_description: "A Collection of Useful Regular Expressions when searching logs using Sumo Logic"
    url: "https://github.com/SumoGoodies/Useful-RegEx"
@@ -25,9 +33,9 @@
    repo_description: "Collect CloudWatch log groups and forward then to one centralizing Lambda function"
    url: "http://blog.davidablack.net/2016/08/17/a-log-reflector-for-aws-lambda/"
 
- - title: "SumoTools PowerShell Module"
-   repo_description: "PowerShell Module of functions running against the Sumo Logic API. It requires version 3.0 of PowerShell, as data is returned in JSON format and the module uses the ConvertFrom-Json function."
-   url: 
+ - title: "Manage with Puppet"
+   repo_description: "Install and manage the Sumo Logic collector and its log sources with Puppet."
+   url: "https://github.com/pjorg/pjorg-puppet-sumo"
 
  - title: "Nodejs Client"
    repo_description: "A simple client implementation in node.js to send logs to Sumo Logic."
@@ -44,4 +52,24 @@
  - title: "Sumo Control"
    repo_description: "Ruby Gem that allows to manage Sumo Logic collectors from the command line"
    url: "https://github.com/secondrotation/sumo_control"
+
+ - title: "FER"
+   repo_description: "A collection of useful field extraction rules."
+   url: "https://github.com/SumoGoodies/FER"
+
+ - title: "Puppet Module to install a Sumo collector"
+   repo_description: "Sample tasks: 1. In Sumo, create Access ID/Key for collector registration. 2. Copy this module onto your Puppet Master module repository. 3. In Your puppet console, assign the Sumo class to your targeted nodes."
+   url: "https://github.com/SumoGoodies/PuppetModule_Windows"
+
+ - title: "CloudWatch to Sumo Logic"
+   repo_description: "Python script to send CloudWatch logs to Sumo Logic"
+   url: "https://github.com/gadouryd/SumoLogic/blob/master/cloudwatch_to_sumo.py"
+
+ - title: "Winston SNS Transport"
+   repo_description: "Winston Transport for Amazon SNS specialized for JSON logs in Sumo Logic"
+   url: "https://github.com/Battlefy/winston-sns-sumo-logic"
+
+ - title: ""
+   repo_description: ""
+   url: ""
 
